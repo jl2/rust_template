@@ -1,4 +1,4 @@
-* obj-reader
+* rust_template
 
 ** About
 A template for Rust projects.

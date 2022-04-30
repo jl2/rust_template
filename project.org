@@ -1,0 +1,21 @@
+* obj-reader
+
+** About
+A template for Rust projects.
+
+** Example
+#+BEGIN_SRC rustic :extern crate rust_template;
+  use module;
+  let thing = rust_template::module::do_something();
+  println!("{:}", thing);
+#+END_SRC
+
+#+RESULTS:
+
+** License
+ISC
+
+Copyright (c) 2022 Jeremiah LaRocco <jeremiah_larocco@fastmail.com>
+
+* Plan
+** TODO Fix mtllib imports
